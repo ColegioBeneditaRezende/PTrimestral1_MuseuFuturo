@@ -9,6 +9,9 @@
     font-weight: 300;
     font-size: 16px;
 }
+h1{
+    text-align: center;
+}
 
 .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 2),
@@ -36,9 +39,9 @@ img {
     bottom: 0;
     left: 0;
     display: flex;
+    width: 100vw;
     justify-content: space-between;
-    gap: 12em;
-    margin: 6em;
+    margin: 3em;
     top: 40%;
   }
 
