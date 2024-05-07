@@ -39,7 +39,7 @@ img {
     justify-content: space-between;
     gap: 12em;
     margin: 6em;
-    top: 54%;
+    top: 40%;
   }
 
   body {
@@ -80,7 +80,7 @@ a{
     align-items: center;
     justify-content: center;
     position: absolute;
-    top: 55%;
+    top: 40%;
     transform: translateY(-50%);
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 2),
                 0 6px 20px 0 rgb(0, 0, 0, 0.19);
